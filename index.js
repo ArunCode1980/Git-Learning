@@ -24,3 +24,6 @@ const win = "Consistency & Discipline";
 
 console.log("Dubai");
 console.log("Fortuner");
+
+const main = "main commit";
+console.log("main");

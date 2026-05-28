@@ -19,3 +19,8 @@ const trade = 2;
 
 const startegy = "Liq. Sweep";
 const winrate = "60 - 70%";
+
+const win = "Consistency & Discipline";
+
+console.log("Dubai");
+console.log("Fortuner");

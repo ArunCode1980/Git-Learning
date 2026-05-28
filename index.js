@@ -8,3 +8,9 @@ console.log("Hello Arun");
 const id = 444;
 
 console.log("Thik Ho");
+
+function changename(){
+    const name = "Randeep singh"
+}
+
+changenamename();

@@ -14,3 +14,8 @@ function changename(){
 }
 
 changenamename();
+
+const trade = 2;
+
+const startegy = "Liq. Sweep";
+const winrate = "60 - 70%";
